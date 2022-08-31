@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/mikheilsoziashvili/Desktop/sweeft/src/test/java/Test/HomePageRunner.java">
+        <classes>
+            <class name="SetUp.SetupClass"/>
+            <class name="Test.HomePageRunner"/>
+            <class name="Test.GearPageRunner"/>
+            <class name="Test.HikingPageRunner"/>
+            <class name="Test.ItemPageRunner"/>
+            <class name="Test.TopCartLogoRunner"/>
+            <class name="Test.CheckoutPageRunner"/>
+            <class name="Test.PlaceOrderPageRunner"/>
+            <class name="Test.RegistrationPageRunner"/>
+            <class name="Test.AccountPageRunner"/>
+        </classes>
+    </test>
+</suite>
