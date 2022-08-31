@@ -1,1 +1,1 @@
-# Sweeft_Task
+# Run Testng.xml to run all test cases
